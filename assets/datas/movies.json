@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "Fast and Furious",
+        "description": "Film d'action avec des voitures de type supercars.",
+        "type": "Action",
+        "cover": "http://fr.web.img6.acsta.net/c_215_290/medias/nmedia/00/02/30/50/69215495_af.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Bloodshot",
+        "description": "Film d'action dans un monde de science fiction avec un héro qui a des capacités augmentées grace à une nanotechnologie.",
+        "type": "Action",
+        "cover": "http://fr.web.img6.acsta.net/c_215_290/pictures/20/01/23/09/02/1428612.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Le roi lion",
+        "description": "Film d'animation pour enfant avec un chat entouré de pigeon.",
+        "type": "Animation",
+        "cover": "http://fr.web.img4.acsta.net/c_215_290/pictures/19/02/25/12/06/2908996.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Moi moche et méchant",
+        "description": "Film d'animation avec des minions tout jaune trop mignon.",
+        "type": "Animation",
+        "cover": "http://fr.web.img6.acsta.net/c_215_290/medias/nmedia/18/73/23/03/19494202.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Kaamelot",
+        "description": "Film dont l'univers est tiré d'une série du même nom.",
+        "type": "Comédie",
+        "cover": "http://fr.web.img2.acsta.net/c_210_280/pictures/20/01/23/10/08/0198949.jpg"
+    }
+]
